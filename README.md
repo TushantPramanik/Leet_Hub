@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TushantPramanik/Leet_Hub/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/TushantPramanik/Leet_Hub/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TushantPramanik/Leet_Hub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/TushantPramanik/Leet_Hub/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/TushantPramanik/Leet_Hub/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/TushantPramanik/Leet_Hub/tree/master/0058-length-of-last-word) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/TushantPramanik/Leet_Hub/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
