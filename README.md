@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TushantPramanik/Leet_Hub/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TushantPramanik/Leet_Hub/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/TushantPramanik/Leet_Hub/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TushantPramanik/Leet_Hub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/TushantPramanik/Leet_Hub/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
