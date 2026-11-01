@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TushantPramanik/Leet_Hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TushantPramanik/Leet_Hub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TushantPramanik/Leet_Hub/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TushantPramanik/Leet_Hub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TushantPramanik/Leet_Hub/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/TushantPramanik/Leet_Hub/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TushantPramanik/Leet_Hub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TushantPramanik/Leet_Hub/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
