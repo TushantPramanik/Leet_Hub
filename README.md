@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TushantPramanik/Leet_Hub/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/TushantPramanik/Leet_Hub/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TushantPramanik/Leet_Hub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/TushantPramanik/Leet_Hub/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TushantPramanik/Leet_Hub/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
