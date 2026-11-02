@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TushantPramanik/Leet_Hub/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TushantPramanik/Leet_Hub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TushantPramanik/Leet_Hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/TushantPramanik/Leet_Hub/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
