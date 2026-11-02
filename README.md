@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/TushantPramanik/Leet_Hub/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/TushantPramanik/Leet_Hub/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
 | ------- |
