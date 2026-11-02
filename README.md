@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TushantPramanik/Leet_Hub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/TushantPramanik/Leet_Hub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/TushantPramanik/Leet_Hub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TushantPramanik/Leet_Hub/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TushantPramanik/Leet_Hub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TushantPramanik/Leet_Hub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
