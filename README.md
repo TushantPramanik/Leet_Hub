@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TushantPramanik/Leet_Hub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TushantPramanik/Leet_Hub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/TushantPramanik/Leet_Hub/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TushantPramanik/Leet_Hub/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TushantPramanik/Leet_Hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/TushantPramanik/Leet_Hub/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
