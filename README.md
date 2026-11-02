@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TushantPramanik/Leet_Hub/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TushantPramanik/Leet_Hub/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
