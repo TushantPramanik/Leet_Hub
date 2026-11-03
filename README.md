@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TushantPramanik/Leet_Hub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TushantPramanik/Leet_Hub/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TushantPramanik/Leet_Hub/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/TushantPramanik/Leet_Hub/tree/master/0520-detect-capital) |
 ## Newton's Method
 |  |
 | ------- |
