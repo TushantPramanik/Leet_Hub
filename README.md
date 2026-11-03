@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TushantPramanik/Leet_Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/TushantPramanik/Leet_Hub/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/TushantPramanik/Leet_Hub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/TushantPramanik/Leet_Hub/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/TushantPramanik/Leet_Hub/tree/master/0771-jewels-and-stones) |
 ## Newton's Method
 |  |
 | ------- |
