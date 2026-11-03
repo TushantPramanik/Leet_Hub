@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TushantPramanik/Leet_Hub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/TushantPramanik/Leet_Hub/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/TushantPramanik/Leet_Hub/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/TushantPramanik/Leet_Hub/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TushantPramanik/Leet_Hub/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
