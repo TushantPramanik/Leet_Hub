@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/TushantPramanik/Leet_Hub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/TushantPramanik/Leet_Hub/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/TushantPramanik/Leet_Hub/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/TushantPramanik/Leet_Hub/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
