@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TushantPramanik/Leet_Hub/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TushantPramanik/Leet_Hub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/TushantPramanik/Leet_Hub/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/TushantPramanik/Leet_Hub/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
