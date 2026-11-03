@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/TushantPramanik/Leet_Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TushantPramanik/Leet_Hub/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TushantPramanik/Leet_Hub/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/TushantPramanik/Leet_Hub/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/TushantPramanik/Leet_Hub/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TushantPramanik/Leet_Hub/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
