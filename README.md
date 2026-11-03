@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TushantPramanik/Leet_Hub/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TushantPramanik/Leet_Hub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/TushantPramanik/Leet_Hub/tree/master/1688-count-of-matches-in-tournament) |
+| [3099-harshad-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/3099-harshad-number) |
 ## Linked List
 |  |
 | ------- |
