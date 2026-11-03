@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TushantPramanik/Leet_Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TushantPramanik/Leet_Hub/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/TushantPramanik/Leet_Hub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/TushantPramanik/Leet_Hub/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TushantPramanik/Leet_Hub/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
 ## Newton's Method
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
