@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/TushantPramanik/Leet_Hub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/TushantPramanik/Leet_Hub/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/TushantPramanik/Leet_Hub/tree/master/0367-valid-perfect-square) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
 | ------- |
