@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/TushantPramanik/Leet_Hub/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/TushantPramanik/Leet_Hub/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/TushantPramanik/Leet_Hub/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/TushantPramanik/Leet_Hub/tree/master/1816-truncate-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TushantPramanik/Leet_Hub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/TushantPramanik/Leet_Hub/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1816-truncate-sentence](https://github.com/TushantPramanik/Leet_Hub/tree/master/1816-truncate-sentence) |
 ## Newton's Method
 |  |
 | ------- |
