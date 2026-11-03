@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TushantPramanik/Leet_Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TushantPramanik/Leet_Hub/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TushantPramanik/Leet_Hub/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0896-monotonic-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
