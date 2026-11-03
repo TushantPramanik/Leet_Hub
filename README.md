@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/TushantPramanik/Leet_Hub/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/TushantPramanik/Leet_Hub/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/TushantPramanik/Leet_Hub/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/TushantPramanik/Leet_Hub/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/TushantPramanik/Leet_Hub/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/TushantPramanik/Leet_Hub/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
