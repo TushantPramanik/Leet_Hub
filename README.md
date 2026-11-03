@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/TushantPramanik/Leet_Hub/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/TushantPramanik/Leet_Hub/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TushantPramanik/Leet_Hub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/TushantPramanik/Leet_Hub/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TushantPramanik/Leet_Hub/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/TushantPramanik/Leet_Hub/tree/master/0844-backspace-string-compare) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TushantPramanik/Leet_Hub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Newton's Method
 |  |
 | ------- |
