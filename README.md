@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/TushantPramanik/Leet_Hub/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/TushantPramanik/Leet_Hub/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/TushantPramanik/Leet_Hub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
