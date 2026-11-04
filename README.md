@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/TushantPramanik/Leet_Hub/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TushantPramanik/Leet_Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TushantPramanik/Leet_Hub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/TushantPramanik/Leet_Hub/tree/master/1512-number-of-good-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TushantPramanik/Leet_Hub/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TushantPramanik/Leet_Hub/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TushantPramanik/Leet_Hub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TushantPramanik/Leet_Hub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
